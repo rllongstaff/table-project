@@ -40,6 +40,15 @@ h1 {
 
 p {
     font-size: 1.1em;
+    margin: 10px 0;
+}
+
+ul {
+    margin-left: 40px;
+}
+
+li {
+    margin-bottom: 5px;
 }
 
 table {
